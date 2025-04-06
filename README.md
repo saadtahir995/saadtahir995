@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/saadtahir69)
 [![GitHub](https://img.shields.io/badge/GitHub-saadtahir995-black)](https://github.com/saadtahir995)
 [![Email](https://img.shields.io/badge/Email-saadtahir5665%40gmail.com-red)](mailto:saadtahir5665@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=saadtahir995&color=blueviolet&style=flat)](https://github.com/saadtahir995)
 
 ## 👨‍💻 About Me
 
@@ -70,7 +71,7 @@ Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Exp
 
 ### Bachelor's in Computer Science
 **University of Central Punjab** | March 2021 - March 2025  
-CGPA: 3.54  
+GPA: 3.54  
 *Relevant coursework: Database Systems, Web Development, Software Engineering*
 
 ### Intermediate (ICS)
