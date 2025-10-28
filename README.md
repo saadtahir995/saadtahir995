@@ -49,7 +49,7 @@ Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Exp
 ## 🚀 Professional Experience
 
 ### Full Stack Developer | Roidzsoft
-*April 2025 - August 2025*
+*April 2025 - September 2025*
 
 - Developed complete MERN stack applications including VCA Pro (construction safety certification platform) and Scravus (lead generation platform)
 - Built cross-platform mobile applications using React Native for iOS and Android deployment
