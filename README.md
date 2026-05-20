@@ -1,5 +1,5 @@
 # Muhammad Saad Tahir
-## Full Stack Developer
+## Full Stack Developer | React Native Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-eight-nu-90.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/saadtahir69)
@@ -9,16 +9,16 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Express.js, and React. Experienced in both backend and frontend development with a strong focus on the MERN stack. Skilled in creating efficient, scalable applications with robust API development and database management.
+React Native Developer with expertise in React Native CLI and Expo for building high-performance cross-platform mobile applications for Android and iOS. Experienced in API integration and connecting mobile apps with robust backend systems. Also has experience in MERN stack development for building responsive and dynamic web applications using React, Node.js, Express.js, and MongoDB. Focused on delivering smooth, production-ready mobile and web experiences with clean, maintainable code.
 
 - 🌍 Based in Pakistan
 - 📱 Contact: +92 332 0149605
-- 💼 Currently working as a Backend Developer at Devntion
 - 🎓 Computer Science graduate from University of Central Punjab
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -26,6 +26,7 @@ Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Exp
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -35,9 +36,11 @@ Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Exp
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
 
-### Tools & Technologies
+### Payment & Tools
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -45,38 +48,87 @@ Full Stack Developer with expertise in NestJS, Node.js, PostgreSQL, MongoDB, Exp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ## 🚀 Professional Experience
 
-### Full Stack Developer | Roidzsoft
+### React Native Developer | Fauree (Dubai)
+*December 2025 - Present*
+
+- Working as a React Native Developer at Fauree using React Native CLI and Expo for cross-platform mobile app development
+- Developed and deployed multiple mobile applications for both Android and iOS platforms
+- Designed and implemented responsive, user-friendly UI screens for smooth user experience
+- Integrated RESTful APIs to connect mobile apps with backend services and ensure seamless data flow
+- Published applications successfully on both Google Play Store and Apple App Store
+- Collaborated with designers and backend developers to build scalable and maintainable mobile solutions
+- Worked on full app lifecycle including development, testing, debugging, and deployment
+
+### MERN Developer | Tiksom Limited (Manchester, England)
+*November 2025 - February 2026*
+
+- Developed full-stack web applications using MongoDB, Express.js, React.js, and Node.js
+- Built responsive UI components and integrated REST APIs
+- Developed backend services and managed databases
+- Worked on **Helcyon**, a virtual CFO and financial management platform, building features for financial tracking, dashboards, and user management
+- Fixed bugs, optimized performance, and improved user experience
+- Used Git/GitHub for version control and team collaboration
+
+### Full Stack Developer | Roidzsoft (Lahore, Pakistan)
 *April 2025 - September 2025*
 
-- Developed complete MERN stack applications including VCA Pro (construction safety certification platform) and Scravus (lead generation platform)
-- Built cross-platform mobile applications using React Native for iOS and Android deployment
-- Created MCQ-based examination system with instant scoring, progress tracking, and subscription management
-- Implemented web scraping and lead extraction engine processing business directories
-- Developed RESTful APIs handling user authentication, exam tracking, and data enrichment
-- Designed responsive UIs in React with push notifications and offline support for mobile apps
-- Managed MongoDB databases for user data, test results, and lead management systems
+- Led development of two production-grade platforms using the MERN stack and React Native
+- Built **VCA Pro**, a cross-platform exam preparation platform for construction safety certifications, with full-featured web, Android, and iOS apps
+- Developed APIs for MCQ exams, user management, scoring, admin panel, and subscription handling
+- Created mobile apps using React Native, integrating push notifications, offline access, and in-app purchases for both Android and iOS
+- Published and maintained the VCA Pro mobile apps on Google Play and Apple App Store
+- Built **Scravus**, a web-based lead generation platform with intelligent scraping, filtering, tagging, and CRM-style lead management
 
 ### Backend Developer | Devntion
 *October 2024 - April 2025*
 
-- Developed backend architecture for "Towing Guy" application using NestJS, PostgreSQL, and Prisma, reducing system latency by 40%
-- Built 12+ RESTful APIs supporting 5,000+ daily transactions
-- Integrated 4 third-party services, decreasing service connection time by 35%
-- Optimized database models and API response time, improving system performance by 60%
-- Implemented security protocols achieving 99.9% uptime and zero security breaches
-- Maintained infrastructure supporting 15,000+ active users and 200+ service providers
+- Built backend architecture for a towing platform using NestJS, PostgreSQL, and Prisma, improving overall system performance and responsiveness
+- Developed core REST APIs for user accounts, tow requests, payments, and driver management
+- Integrated third-party services for maps, payments, and notifications to enhance app functionality
+- Optimized database structure and API performance to improve scalability and reduce server load
+- Implemented authentication and security measures to ensure reliable and secure system operations
 
-### Web Developer (MERN Stack) | Upwork (Freelance)
-*Prior Experience*
+### Internship | Devsinc
+*June 2023 - August 2023*
 
-- Developed 8 full-stack web applications with 4.9/5 client satisfaction rating
-- Created responsive UIs improving user engagement by 35% on mobile devices
-- Implemented authentication systems for 5+ client projects
-- Built 20+ RESTful APIs processing 1,000+ daily requests with 99.8% success rate
-- Managed database design for 10+ client projects, decreasing query response time by 45%
+
+## 💻 Projects
+
+### Helcyon
+*November 2025 - February 2026*
+
+- An AI-powered virtual CFO platform that helps users manage, analyze, and optimize their financial data in real time
+- Provides smart financial insights, budgeting tools, and performance dashboards to support better business decision-making
+- Designed as a scalable web application with a clean UI and integrated data processing for seamless financial tracking and reporting
+
+### Akuafoc Anidasoc
+*December 2025 - April 2026*
+
+- A national digital agriculture platform that connects farmers to essential services in one mobile app
+- Provides access to finance, quality farming inputs, and trusted buyers to support agricultural growth
+- Integrates government services, making it easier for farmers to manage everything in one place
+- [App Store](https://apps.apple.com)
+
+### Akuafoc Anidasoc - IP
+*December 2025 - April 2026*
+
+- Ghana's official digital platform enabling agro-input businesses, dealers, cooperatives, and financial institutions to serve registered farmers
+- Supports structured credit delivery, allowing faster and smarter financing for agricultural inputs with government backing
+- Developed under an MoU between the Ministry of Food and Agriculture (MoFA) as part of the national agricultural ecosystem
+- [Play Store](https://play.google.com)
+
+### Pamo Zambia
+*March 2026 - May 2026*
+
+- A digital financing platform designed to support SMEs in Zambia with fast and accessible supply chain financing
+- Streamlines the financing process from onboarding to funding, making it easier for businesses to access capital
+- Helps SMEs unlock working capital by financing unpaid invoices and improving cash flow
+- [Play Store](https://play.google.com)
+
 
 ## 📚 Education
 
@@ -88,36 +140,16 @@ GPA: 3.54
 ### Intermediate (ICS)
 **Forman Christian College, Lahore** | February 2018 - March 2020
 
-## 💻 Projects
-
-### Blogging Platform
-*July 2023 - August 2023*
-- Full-stack blog application using MERN stack
-- User authentication for secure content management
-- Features for post creation, editing, and deletion
-- Responsive UI for optimal user experience
-
-### Streaming Platform (AnimeHub)
-- Video streaming service using TypeScript, React, and RESTful APIs
-- Features for watching seasons and episodes
-- Responsive design for multiple device compatibility
-
-### Real-Time Chat App
-- Chat application using React, Node.js, and Socket.IO
-- Public and private room messaging functionality
-- Integrated Google's Generative AI (Gemini) for AI-powered chat
-
 ## 🏆 Certifications
 
-- **AWS Certified Developer - Associate** | Amazon Web Services (January 2024)
 - **Node.js Services Developer (JSNAD)** | OpenJS Foundation (May 2024)
+- **AWS Certified Developer - Associate** | Amazon Web Services (January 2024)
 
 ## 🌟 Interests
 
-- **Chess**: Strategic thinking, analytical skills, problem-solving
-- **Hiking**: Perseverance, goal-setting, environmental awareness
-- **Gaming**: Team coordination, strategic planning
-- **Cybersecurity**: Information security awareness, ethical hacking
+- **Hiking**: Perseverance, goal-setting, environmental awareness, physical endurance, exploration
+- **Gaming**: Team coordination, strategic planning, reaction time, competitive analysis
+- **Cybersecurity**: Information security awareness, ethical hacking interest, network security, digital privacy
 
 ## 🗣️ Languages
 
